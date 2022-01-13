@@ -1,0 +1,39 @@
+.banner{
+    background-color: rgb(102, 126, 38);
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    color: white;
+}
+.kontakdata{
+    background-color: rgb(102, 126, 38);
+    background-size: cover;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    color: white;
+}
+
+.croping{
+    height: 300px;
+    overflow: scroll;
+    position: relative;
+}
+.icon{
+    height: 40px;
+    width: 40px;
+    display: block;
+    margin-left: auto;
+}
+.icon1{
+    height: 50px;
+    width: 50px;
+    display: block;
+    margin-right: auto;
+}
+.tombol{
+    background-color: rgb(102, 126, 38);
+}
+.judul{
+    background-color: rgb(102, 126, 38);
+    color: white;
+}
